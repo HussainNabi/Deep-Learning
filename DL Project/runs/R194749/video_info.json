@@ -1,0 +1,9 @@
+{
+  "file": "Hallway2.mp4",
+  "fps": 30.013847219016846,
+  "w": 1024,
+  "h": 576,
+  "frames": 867,
+  "model": "yolo11n.pt",
+  "conf": 0.3
+}
